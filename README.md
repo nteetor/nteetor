@@ -12,7 +12,7 @@ My name's Nathan (Nate) Teetor! I'm an R package developer and aspiring farmer. 
 
 * I can't get enough of [The Wise Man's Fear](https://en.wikipedia.org/wiki/The_Wise_Man%27s_Fear)
 * Favorite author is most likely Ursula K. Le Guin
-* Top 200 Feral Tank (🐻)
+* Top 20 Feral Tank (🐻)
 * I wish I'd read/watched Hunter x Hunter sooner
 
 <!--
