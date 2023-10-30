@@ -14,6 +14,8 @@ My name's Nathan (Nate) Teetor! I'm an R package developer and aspiring farmer. 
 * Favorite author is most likely Ursula K. Le Guin
 * I wish I'd read/watched Hunter x Hunter sooner
 
+<a rel="me" href="https://mastodon.social/@nteetor" hidden></a>
+
 <!--
 **nteetor/nteetor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
